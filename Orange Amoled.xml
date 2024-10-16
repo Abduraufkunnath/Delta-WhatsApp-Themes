@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="home_dot_margin_top" value="12" />
+    <boolean name="fab_elevation_key" value="false" />
+    <string name="entry_language_key">ar</string>
+    <int name="home_dot_margin_left" value="44" />
+    <int name="chat_out_textcolor_key" value="-65794" />
+    <string name="key_theme_app">2</string>
+    <boolean name="custom_font_key" value="false" />
+    <int name="key_tab_bc" value="-16777216" />
+    <boolean name="group_tab_key" value="false" />
+    <int name="chat_quote_divider_key" value="-26624" />
+    <int name="chats_row_stroke_color_key" value="-2130733056" />
+    <string name="key_header_view">v1</string>
+    <string name="chats_row_layout_key">stock</string>
+    <boolean name="delta_toast_online_view" value="true" />
+    <int name="chat_quote_bg_key" value="-2130733056" />
+    <string name="chat_wallpaper_key">image</string>
+    <int name="chats_row_stroke_width_key" value="1" />
+    <int name="chat_link_color_key" value="-14575885" />
+    <int name="chat_quote_message_key" value="-1644826" />
+    <int name="bubble_incoming_key" value="-1" />
+    <int name="home_dot_cl" value="-26624" />
+    <string name="home_wallpaper_key">image</string>
+    <int name="home_header_bg_key" value="-16777216" />
+    <int name="segment_rounded_key" value="0" />
+    <boolean name="home_stories_key" value="false" />
+    <string name="bubble_style_key">rciosline</string>
+    <int name="chat_quote_title_key" value="-1644826" />
+    <int name="chat_in_textcolor_key" value="-1644826" />
+    <int name="segment_sel_bc_key" value="-26624" />
+    <int name="chat_in_datecolor_key" value="-1644826" />
+    <int name="bubble_outgoing_key" value="-26624" />
+    <int name="segment_sel_tc_key" value="-26624" />
+    <int name="key_accent_color" value="-26624" />
+    <string name="chat_language_key">en</string>
+    <boolean name="hide_recommended_key" value="true" />
+    <string name="key_delta_home_ui">parallax_ios</string>
+    <boolean name="home_dot_cl_Gactive" value="false" />
+    <int name="home_dot_size" value="16" />
+    <int name="chat_out_datecolor_key" value="-65794" />
+    <boolean name="bubble_incoming_key_Gactive" value="false" />
+    <string name="HISTORY">[-15238329,-14575885,-789517,-65794,-1,-1644826,-2130733056,-26624,-16777216]</string>
+    <string name="double_tap_key">menu</string>
+    <boolean name="chats_groups_separate_key" value="false" />
+    <boolean name="bubble_outgoing_key_Gactive" value="false" />
+    <string name="single_tap_key">custom</string>
+</map>
